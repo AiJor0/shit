@@ -1,2 +1,2 @@
-a = input()
-print(f'hello {a}')
+b = input()
+print(f'hello {b}')
